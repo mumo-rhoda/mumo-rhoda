@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mumo-rhoda
-- 👀 I’m interested in ...#secure-#quality-development 🌱 
+- 👀 I’m interested in ...#secure-#quality-software development 🌱 
 - 💞️ 
 
 <!---
