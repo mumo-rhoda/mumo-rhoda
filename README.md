@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=865&height=44&lines=Senior%20Integration%20Engineer;Building%20reliable%20APIs%20and%20connected%20enterprise%20systems"
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=865&height=44&lines=Integration%20Engineer;Building%20reliable%20APIs%20and%20connected%20enterprise%20systems"
     alt="Integration Engineer"
   />
 </p>
@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-I’m a **Senior Integration Engineer** specialising in enterprise APIs, MuleSoft and cloud integration.
+I’m a **Integration Engineer** specialising in enterprise APIs, MuleSoft and cloud integration.
 
 I design, build and operate secure, reliable integrations that connect enterprise systems, automate business processes and enable information to move seamlessly between platforms.
 
