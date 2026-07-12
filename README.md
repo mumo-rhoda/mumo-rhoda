@@ -10,7 +10,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=865&height=44&lines=Senior%20Integration%20Engineer;Building%20reliable%20APIs%20and%20connected%20enterprise%20systems"
-    alt="Senior Integration Engineer"
+    alt="Integration Engineer"
   />
 </p>
 
