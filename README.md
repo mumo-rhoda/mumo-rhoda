@@ -30,13 +30,13 @@ My work spans API-led connectivity, integration architecture, DataWeave, CI/CD, 
 
 Beyond engineering, I create practical API learning content and support the MuleSoft and integration community in Nairobi.
 
-🔭  Currently building **enterprise integrations and reusable API solutions**
-📊  Deepening my expertise in **API observability, reliability and production monitoring**
-🌱  Exploring **AI-assisted integration engineering and platform engineering**
-🤝  Open to collaborating on **API, cloud and enterprise integration projects**
-🎤  Community organiser for **MuleSoft Meetup Nairobi**
-💬  Ask me about **MuleSoft, APIs, DataWeave, integration patterns and observability**
-😄  Pronouns: **she/her**
+🔭  &nbsp;Currently building **enterprise integrations and reusable API solutions**
+📊  &nbsp;Deepening my expertise in **API observability, reliability and production monitoring**
+🌱  &nbsp;Exploring **AI-assisted integration engineering and platform engineering**
+🤝  &nbsp;Open to collaborating on **API, cloud and enterprise integration projects**
+🎤  &nbsp;Community organiser for **MuleSoft Meetup Nairobi**
+💬  &nbsp;Ask me about **MuleSoft, APIs, DataWeave, integration patterns and observability**
+😄  &nbsp;Pronouns: **she/her**
 
 ---
 
